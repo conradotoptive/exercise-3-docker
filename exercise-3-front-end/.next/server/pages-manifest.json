@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/cart": "pages/cart.js",
+  "/home": "pages/home.js",
+  "/cart/[id]": "pages/cart/[id].js",
+  "/userProfile": "pages/userProfile.js",
+  "/purchaces": "pages/purchaces.js",
+  "/purchaces/[id]": "pages/purchaces/[id].js"
+}

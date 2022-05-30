@@ -1,0 +1,45 @@
+.title{
+  font-size: 40px;
+  color: red;
+  margin: 20px;
+  margin-bottom: 60px;
+}
+
+.general-button{
+  font-size: 30px;
+  border-radius: 5px;
+  display: flexbox;
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  justify-content: center;   
+}
+
+.input-credentials{
+  font-size: 20px;
+}
+
+.item-button{
+  font-size: 15px;
+  border-radius: 5px;
+  display: flexbox;
+  text-align: center;
+}
+
+.item-box{
+  padding: 40px;
+  font-size: 20px;
+  padding-top: 30px;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #D1CBCF;
+  margin-left: 700px;
+  margin-right: 700px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
