@@ -9,12 +9,12 @@ Docker compose
 
 ## For running the docker
 
-Clone the poryect repository to your local computer. Then, open a terminal, go to the proyect folder and run this command:
+Clone the project repository to your local computer. Then, open a terminal, go to the project folder and run this command:
 
 ```bash
 docker-compose up
 ```
-This proyects uses the local host ports 3000 (for the UI page), 3001 (for the api), 8081(for mongo express) and 27017 (for mongo db).
+This project uses the local host ports 3000 (for the UI page), 3001 (for the api), 8081(for mongo express) and 27017 (for mongo db).
 Make sure this ports are free when you run the docker-compose up command, except for the 27017.
 
 ## Exercise 3 task
