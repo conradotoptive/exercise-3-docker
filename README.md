@@ -5,7 +5,7 @@ Solution of exercise 3 for Saks OFF 5TH dockered with back-end and front-end
 
 ### Pre-requisites
 
-Docker compose v3.7
+Docker compose
 
 ## For running the docker
 
