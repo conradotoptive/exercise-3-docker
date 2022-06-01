@@ -58,7 +58,7 @@ At the user profile section, you will see your user name, e-mail and your wallet
 
 When you go to products section, you can see all the products available and enter one by one to see the details. Also, you can add them to your cart.
 
-At the cart section, you will see all the products that u added to your cart. There, when you see a specific item, you can by it (only can buy one item at a time) and your wallet will be updated.
+At the cart section, you will see all the products that u added to your cart. There, when you see a specific item, you can buy it (only can buy one item at a time) and your wallet will be updated.
 
 At the purchaces section, you can see all the products that you bought.
 
