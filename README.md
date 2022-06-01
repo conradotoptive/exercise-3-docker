@@ -33,6 +33,21 @@ Create an application (with programming language of your choice) in Docker with 
 
 In the application create a cart to add more than one item, create order and return API.  Create a client application that you can run on the command line to list products that are active or inactive, paginate to next page, search, be able to add to cart, be able to order product of certain size (XS, S, M, L, XL), return, and view list of what I have bought.  Client application should have a wallet of $1000 and keep track of balance on the wallet and list of products in different stages (added to cart, ordered, returned).
 
+## Tools Used
+
+- Java Script
+- Node
+- React with Next.js
+- Mongo db
+- mongoose
+- Express
+- Redux
+- Axios
+
+## Considerations in case of an issue
+
+Sometimes, Next reloads the page randomly when there is an user logged. This delates the app's state and makes some issues. In order to solve it, you have to set the base direction of the app (localhost:3000) and log in again.
+
 ## User manual
 
 After running the docker-compose up command, wait a momment and open a new browser window. Then, type "localhost:3000" on the navigation bar.
